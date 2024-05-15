@@ -199,7 +199,7 @@ initiad tx mstaking create-validator \
 ### Edit validator
 ```
 initiad tx mstaking edit-validator \
---moniker "isim-yaz" \
+--moniker isim-yaz \
 --from cüzdan-adi-yaz \
 --gas-adjustment 1.4 \
 --gas auto \
